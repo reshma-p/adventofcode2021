@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="412260a7-9353-4af4-9b7c-aa3c625782e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/adventofcode2021/adventofcode2021.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventofcode2021/adventofcode2021.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventofcode2021/adventofcode2021.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventofcode2021/adventofcode2021/main.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22LFh9Cg1S3h6ZCHOraL3Em3cU4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Kotlin.Day2Kt">
+    <configuration name="Day1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode2021" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Day1Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode2021" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Day2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Day2Kt" />
+        <item itemvalue="Kotlin.Day1Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="412260a7-9353-4af4-9b7c-aa3c625782e5" name="Default Changelist" comment="" />
+      <created>1639609076841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639609076841</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1302" height="208" key="GridCell.Tab.0.bottom" timestamp="1639613568865">
+      <screen x="0" y="25" width="1344" height="815" />
+    </state>
+    <state width="1302" height="208" key="GridCell.Tab.0.bottom/-249.-1055.1920.1055/0.25.1344.815@0.25.1344.815" timestamp="1639613568865" />
+    <state width="1302" height="208" key="GridCell.Tab.0.center" timestamp="1639613568864">
+      <screen x="0" y="25" width="1344" height="815" />
+    </state>
+    <state width="1302" height="208" key="GridCell.Tab.0.center/-249.-1055.1920.1055/0.25.1344.815@0.25.1344.815" timestamp="1639613568864" />
+    <state width="1302" height="208" key="GridCell.Tab.0.left" timestamp="1639613568864">
+      <screen x="0" y="25" width="1344" height="815" />
+    </state>
+    <state width="1302" height="208" key="GridCell.Tab.0.left/-249.-1055.1920.1055/0.25.1344.815@0.25.1344.815" timestamp="1639613568864" />
+    <state width="1302" height="208" key="GridCell.Tab.0.right" timestamp="1639613568865">
+      <screen x="0" y="25" width="1344" height="815" />
+    </state>
+    <state width="1302" height="208" key="GridCell.Tab.0.right/-249.-1055.1920.1055/0.25.1344.815@0.25.1344.815" timestamp="1639613568865" />
+    <state x="181" y="68" key="SettingsEditor" timestamp="1639613054167">
+      <screen x="0" y="25" width="1344" height="815" />
+    </state>
+    <state x="181" y="68" key="SettingsEditor/-249.-1055.1920.1055/0.25.1344.815@0.25.1344.815" timestamp="1639613054167" />
+  </component>
+</project>
